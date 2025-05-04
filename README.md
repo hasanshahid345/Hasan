@@ -1,2 +1,1 @@
-# Hasan
-Sql queris
+SQL
